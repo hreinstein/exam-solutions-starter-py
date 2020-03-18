@@ -1,0 +1,4 @@
+#BRANCH 
+branch creates a new splice in the repo 
+any change you make in one branch won't affect the work in another branch 
+
